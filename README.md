@@ -1,7 +1,7 @@
 # Smart Document Scanner
 
 ## Author
-Ritik Sharma (2301010304)
+Hridayanshu Yogi (2301010304)
 
 ## Objective
 Analyze sampling and quantization effects on document images.
